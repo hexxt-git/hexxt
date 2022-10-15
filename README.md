@@ -1,6 +1,6 @@
-welcome my gihub profile
+welcome to my github profile
 
-I'm 9EED.
+I'm 9EED
 
 currently a highschool senior.
 
