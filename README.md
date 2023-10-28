@@ -1,10 +1,12 @@
 welcome to my github profile
 
-I'm 9EED
+I'm Zeghdani Salah Eddine (aka 9EED)
 
-currently a highschool senior.
+currently a computer science major.
 
-I do HTML, CSS, JavaScript, Godot, Python and a little c++..
+I write in HTML, CSS, JavaScript, Godot, Python and C..
+
+I make websites/web-apps, desktop apps and games from scratch, and server apps.
 
 I will be putting anything interesting i make in here.
 
