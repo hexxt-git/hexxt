@@ -4,9 +4,9 @@ I'm Zeghdani Salah Eddine (aka HEXXT)
 
 currently a computer science major.
 
-I make websites and games
+I make websites, games and other stuff
 
-I use mainly Svelte Svelte-Kit unity python and C 
+I use mainly JavaScript but i do know many other languages.
 
 I will be putting anything interesting i make in here.
 
