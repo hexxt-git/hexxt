@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://gitfut.com/hexxt-git.png" height="170" alt="GitFut card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hexxt-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hexxt-git&layout=donut-vertical&langs_count=6&theme=github_dark" height="180" alt="languages graph"  />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=hexxt-git&theme=dark&card_height=170" height="170" alt="" />
