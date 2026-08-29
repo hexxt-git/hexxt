@@ -29,9 +29,13 @@
   <img width="12" />
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></a>
   <img width="12" />
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/A0A0A0" height="40" alt="nextjs logo" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/hexxt-git/hexxt-git/main/assets/nextjs.svg" height="40" alt="nextjs logo" /></a>
+  <img width="12" />
+  <a href="https://astro.build/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="astro logo" /></a>
   <img width="12" />
   <a href="https://svelte.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo" /></a>
+  <img width="12" />
+  <a href="https://vite.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vitejs logo" /></a>
   <img width="12" />
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" /></a>
   <img width="12" />
