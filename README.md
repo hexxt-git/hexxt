@@ -55,11 +55,11 @@
   <img width="12" />
   <a href="https://trpc.io/" target="_blank"><img src="https://cdn.simpleicons.org/trpc/2596BE" height="40" alt="trpc logo" /></a>
   <img width="12" />
-  <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.simpleicons.org/prisma/A0A0A0" height="40" alt="prisma logo" /></a>
-  <img width="12" />
   <a href="https://stripe.com/" target="_blank"><img src="https://cdn.simpleicons.org/stripe/635BFF" height="40" alt="stripe logo" /></a>
   <img width="12" />
   <a href="https://chargily.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/92551094?s=200" height="40" alt="chargily logo" /></a>
+  <img width="12" />
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.simpleicons.org/prisma/A0A0A0" height="40" alt="prisma logo" /></a>
   <img width="12" />
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /></a>
   <img width="12" />
@@ -67,15 +67,15 @@
   <img width="12" />
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" /></a>
   <img width="12" />
-  <a href="https://godotengine.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo" /></a>
-  <img width="12" />
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" /></a>
-  <img width="12" />
-  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://cdn.simpleicons.org/xcode/1575F9" height="40" alt="xcode logo" /></a>
-  <img width="12" />
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /></a>
   <img width="12" />
   <a href="https://www.kernel.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /></a>
+  <img width="12" />
+  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://cdn.simpleicons.org/xcode/1575F9" height="40" alt="xcode logo" /></a>
+  <img width="12" />
+  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" /></a>
+  <img width="12" />
+  <a href="https://godotengine.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo" /></a>
 </div>
 
 ###
