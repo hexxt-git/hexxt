@@ -31,7 +31,7 @@
   <img width="12" />
   <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/hexxt-git/hexxt-git/main/assets/nextjs.svg" height="40" alt="nextjs logo" /></a>
   <img width="12" />
-  <a href="https://astro.build/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="astro logo" /></a>
+  <a href="https://astro.build/" target="_blank"><img src="https://raw.githubusercontent.com/hexxt-git/hexxt-git/main/assets/astro.svg" height="40" alt="astro logo" /></a>
   <img width="12" />
   <a href="https://svelte.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo" /></a>
   <img width="12" />
@@ -66,6 +66,8 @@
   <a href="https://chargily.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/92551094?s=200" height="40" alt="chargily logo" /></a>
   <img width="12" />
   <a href="https://www.swift.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" /></a>
+  <img width="12" />
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://raw.githubusercontent.com/hexxt-git/hexxt-git/main/assets/swiftui.svg" height="40" alt="swiftui logo" /></a>
   <img width="12" />
   <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://cdn.simpleicons.org/xcode/1575F9" height="40" alt="xcode logo" /></a>
   <img width="12" />
